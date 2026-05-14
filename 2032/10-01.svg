@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-label="Calendar" role="img" viewBox="0 0 512 512" width="100%" height="100%" style="cursor: default">
+      null
+      <path d="m512,455c0,32 -25,57 -57,57l-398,0c-32,0 -57,-25 -57,-57l0,-327c0,-31 25,-57 57,-57l398,0c32,0 57,26 57,57l0,327z" fill="#efefef"/>
+      <path d="m484,0l-47,0l-409,0c-15,0 -28,13 -28,28l0,157l512,0l0,-157c0,-15 -13,-28 -28,-28z" fill="#cf5659"/>
+      <g fill="#f3aab9">
+        <circle cx="462" cy="136" r="14"/>
+        <circle cx="462" cy="94" r="14"/>
+        <circle cx="419" cy="136" r="14"/>
+        <circle cx="419" cy="94" r="14"/>
+        <circle cx="376" cy="136" r="14"/>
+        <circle cx="376" cy="94" r="14"/>
+      </g>
+      <text id="month" x="32" y="142" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="100px" style="text-anchor: left"></text>
+      <text id="day" x="256" y="400" fill="#66757f" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="256px" style="text-anchor: middle">1</text>
+      <path fill="#FFDE02" d="m112.612,28.03808l8.34431,4.0361l6.67772,-6.41697l-1.25846,9.18327l8.16292,4.37622l-9.11525,1.63259l-1.63259,9.11525l-4.37622,-8.16292l-9.18327,1.25846l6.41697,-6.67772l-4.0361,-8.34431l-0.00002,0.00002zm52.88887,33.34322l-4.0361,8.33296l6.41697,6.68905l-9.17194,-1.26978l-4.37622,8.17424l-1.63259,-9.1266l-9.1266,-1.63259l8.17424,-4.37622l-1.26978,-9.17194l6.68905,6.41697l8.33296,-4.0361l0.00002,0.00002zm-10.84988,42.84396l3.03843,8.75246l9.26263,0.19274l-7.38063,5.58933l2.68696,8.87717l-7.60739,-5.29456l-7.60739,5.29456l2.67561,-8.87717l-7.38063,-5.58933l9.26263,-0.19274l3.04975,-8.75246l0.00002,0zm-42.03899,37.18661l8.34431,4.0361l6.67772,-6.41697l-1.25846,9.18327l8.16292,4.37622l-9.11525,1.63259l-1.63259,9.11525l-4.37622,-8.16292l-9.18327,1.25846l6.41697,-6.67772l-4.0361,-8.34431l-0.00002,0.00002zm-46.89141,-90.9938l10.53243,30.28215l32.03942,0.65756l-25.54312,19.36423l9.28532,30.67895l-26.31406,-18.30987l-26.31406,18.30987l9.28532,-30.67895l-25.54312,-19.36423l32.03942,-0.65756l10.53243,-30.28215z"/>
+      <text id="weekday" x="256" y="480" fill="#66757f" font-family="-apple-system, BlinkMacSystemFont, 'Noto Sans', 'Noto Sans CJK SC', 'Microsoft YaHei', sans-serif, 'Segoe UI', Roboto, 'Helvetica Neue', Arial" font-size="64px" style="text-anchor: middle">星期五</text>
+      null
+    </svg>
